@@ -6,9 +6,11 @@
  * ProgName	: ADDPRO-LB DIGITAL BIBLE 2-3.3 ENCRYPTOR v1.1
  * Author	: Aaron E.								           			*
  * Date		: March 2016,Sat Dec  7 00:55:30 UTC 2019
- * Platforms	: GNU LINUX and Windows											*
+ * Platforms	: GNU LINUX,Windows and FreeBSD 14.3-RELEASE (UNIX)									
  * hardware	: x86_64 Intel(R) Celeron(R) M CPU  530  @ 1.73GHz GenuineIntel GNU/Linux				*
  * 		  Linux 4.9.0-9-amd64 #1 SMP Debian 4.9.168-1+deb9u2 (2019-05-13) x86_64 GNU/Linux
+ 		  Intel(R) i7-7700HQ @ 2.80GHz
+ *		
  * Desc		: A simple cryptograhic program by means of subtitution							*
  * 		  my aim is to make more complex encryption or just apply						*
  * 		  the already exist good encryption like AES-512							*
